@@ -60,6 +60,9 @@
   </content_rating>
 
   <releases>
+    <release version="v0.0.23" date="2024-03-30">
+      <url>https://github.com/diamondburned/dissent/releases/tag/v0.0.23</url>
+    </release>
     <release version="v0.0.22" date="2024-03-30">
       <url>https://github.com/diamondburned/dissent/releases/tag/v0.0.22</url>
     </release>
